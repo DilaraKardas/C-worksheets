@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1673691349 source:c:\users\dlrka\onedrive\masaüstü\c çalýþmalarý\esnekargumanli\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673880192 source:c:\users\dlrka\onedrive\masaüstü\c çalýþmalarý\ortakelemanpointer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
